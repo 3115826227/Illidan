@@ -1,14 +1,14 @@
-# Illidan — 企业综合管理平台文档中心
+# 伊利丹（Illidan）— 企业综合管理平台文档中心
 
-Illidan 是企业综合管理平台的统一文档仓库，用于维护产品需求、技术架构、前后端开发规范、接口说明与部署指南。
+伊利丹（Illidan）是企业综合管理平台的统一文档仓库，用于维护产品需求、技术架构、前后端开发规范、接口说明与部署指南。
 
 ## 关联项目
 
 | 仓库 | 职责 | 技术栈 |
 | --- | --- | --- |
-| [Anduin](https://github.com/3115826227/Anduin) | 后端服务 | Go、Gin、GORM、Viper、Zap |
-| [Garona](https://github.com/3115826227/Garona) | Web 前端 | Vue 3、TypeScript、Vite、Element Plus |
-| [Illidan](https://github.com/3115826227/Illidan) | 文档中心 | Markdown、VitePress、GitHub Pages |
+| [安度因（Anduin）](https://github.com/3115826227/Anduin) | 后端服务 | Go、Gin、GORM、Viper、Zap |
+| [迦罗娜（Garona）](https://github.com/3115826227/Garona) | Web 前端 | Vue 3、TypeScript、Vite、Element Plus |
+| [伊利丹（Illidan）](https://github.com/3115826227/Illidan) | 文档中心 | Markdown、VitePress、GitHub Pages |
 
 ## 本地运行
 
